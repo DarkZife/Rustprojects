@@ -23,7 +23,7 @@ I guess I still don't full understand what libraries really are
 {Make a list of websites that you found helpful in this project}
 
 - [VSCODE rust/book](https://doc.rust-lang.org/book/title-page.html)
-- [tutorialspoint]([http://url.link.goes.here](https://www.tutorialspoint.com/rust/rust_file_input_output.htm))
+- [tutorialspoint](https://www.tutorialspoint.com/rust/rust_file_input_output.htm)
 - [linkedin](https://www.linkedin.com/pulse/error-handling-rust-amit-nadiger/)
 - [RUST](https://www.rust-lang.org/)
 
